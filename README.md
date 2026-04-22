@@ -69,8 +69,11 @@ Built interactive Power BI dashboards with filters and KPIs
 Visualized:
 
 -> Revenue trends
+
 -> Occupancy patterns
+
 -> Booking platform performance
+
 -> City-wise insights
 
 📈 Key Insights:
