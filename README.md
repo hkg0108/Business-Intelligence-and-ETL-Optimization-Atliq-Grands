@@ -105,3 +105,11 @@ Visualized:
 -> Business-focused storytelling with data
 
 -> Scalable approach for future analytics use cases
+
+<img width="1312" height="806" alt="hospitality revenue Dashboard" src="https://github.com/user-attachments/assets/e6f58fdd-eae1-4eeb-803c-f03b9c49ac28" />
+
+
+
+<img width="1312" height="807" alt="tooltip example" src="https://github.com/user-attachments/assets/3d3def6b-35af-4de6-8a13-895a230e8264" />
+
+
